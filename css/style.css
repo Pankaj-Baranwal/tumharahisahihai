@@ -61,7 +61,7 @@ a.navbar-brand .fa-globe:hover
   max-width: 996px;
 }
 .splash {
-  background:url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-452613.jpg") no-repeat fixed center bottom;
+  background:url("../cover.jpeg") no-repeat fixed center bottom;
 	background-size: cover;
 	color: #fff;
 }
